@@ -1,0 +1,6 @@
+EE basics
+
+* Norton, Thevenin equivalent circuits
+
+* OP-AMP
+>> inverting configuration
