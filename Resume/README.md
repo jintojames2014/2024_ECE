@@ -26,18 +26,13 @@ Woodbury, MN 🇺🇸 (Saint Paul, MN)
 
 Resume availble online:
 * https://raw.githubusercontent.com/jintojames2014/2024_ECE/refs/heads/main/Resume/Resume_JintoJollyJames.txt
-* https://raw.githubusercontent.com/jintojames2014/2024_ECE/refs/heads/main/Resume/txtResume_JintoJames_ElectricalEngineerJobs.txt
-
 ----
 Repository: https://github.com/jintojames2014/2024_ECE/
 
-
 File path: Resume
-
 
 'Resume' Folder: to retain text version of resume (quick reference)
 
 Folder created on:
-
 
 Wednesday, November 20, 2024
