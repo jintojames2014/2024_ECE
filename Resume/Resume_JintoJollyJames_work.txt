@@ -1,0 +1,74 @@
+Resume
+
+Jinto J. James (Jinto Jolly James)
+Woodbury (Saint Paul), MN
+jintojkulappurathu@gmail.com
+https://github.com/jintojames2014
+www.linkedin.com/in/jintojollyjames
+
+Work Experience
+
+Leonardo DRS - Burnsville, MN
+Senior Electrical Engineer, Mar. 2024 thru June 2024 (on-site contract)
+* Updated Hardware Design Description (HDD) of a Line Replaceable Unit (LRU) in the overall system, based on available updated design data and schematics.
+* Performed initial Design-Failure Mode and Effect Analysis (D-FMEA) of legacy ADFR 
+(Automatic Deployable Flight Recorder) system (3 LRUs, 7 Modules).
+
+Belcan, LLC. - Platteville, WI
+Electrical Engineer, Feb. 2022 thru Feb. 2023 (on-site until Aug 2022, remote from Sep. 2022)
+* Lead simulation-based verification effort using Siemens/ Mentor Graphics Questa Sim.
+* Performed Verification (by simulation) task for design implemented on FPGA and CPLD.
+* Participated in DO-254 based planning document template generation activity with two consultants and a Project Engineer.
+
+L&T Technology Services, LLC. - Rockford, IL
+Associate Engineer, Feb. 2021 thru Apr. 2021 (remote)
+* Performed peer review on activities performed on DOORS objects as per DO-178c.
+* Documented review activity checklist entries and artifacts on IBM Rational Synergy/ Change.
+
+L3 Harris Technologies - Waco, TX
+Electrical Engineer, June 2019 thru Sept. 2019 (on-site contract)
+* Performed pin assignments and component orientation selections for FPGAs, CPLDs, etc. in various form factors for replacement of obsolete parts in PCBs using Mentor Graphics PADS.
+* Migrated obsolete FPGA and CPLD based designs in Intel/ Altera Quartus and Altera MAX+PLUS II environment to Xilinx ISE and Vivado environment for replacement parts.
+* Participated in Detailed Design Review and completed follow-up actions.
+
+BAE Systems, Inc. - Lake Forest, CA
+FPGA Engineer, Dec. 2018 thru Apr. 2019 (on-site contract)
+* Performed verification of Simulink model-based design and VHDL code review.
+* Prepared peer-reviewed checklists and deliverables for preliminary and detailed design reviews per DO-254 guidelines.
+
+Astronics Test Systems - Orlando, FL
+Senior Signal Processing Engineer, Mar. 2015 thru Nov. 2015 (on-site)
+* Migrated legacy ISE design files to Xilinx Vivado development platform for new FPGAs.
+* Implemented existing FPGA designs in software using MATLAB Compiler and made them available to software engineering team as dynamic link libraries (DLLs).
+
+LitePoint Corporation - Orlando, FL
+Hardware Engineer, Feb. 2014 thru Nov. 2014 (on-site) 
+Signal Processing Intern, Nov. 2013 thru Jan. 2014 (on-site)
+* Extended the analysis bandwidth of I/Q digitizer module from few MHz to 1 GHz by modifying the DSP IP core and incorporating a novel wide-band direct digital synthesizer (DDS).
+* Interfaced signal processing block-sets and IP cores for high-speed JESD204B SerDes, DDR3 memory.
+
+Computer Skills
+
+Programming Languages:
+Proficient: VHDL, C, C++
+Basics: Python, Verilog, Assembly Language, Tcl, MS-DOS scripts, Linux shell scripts
+
+Documentation software:
+Version Control: Git, TortoiseSVN, IBM Rational Synergy & Change, Teamcenter Unified.
+Requirements Management: IBM DOORS, JAMA
+Documentation: Microsoft office (Word, Excel, PowerPoint, and Visio), LibreOffice, JIRA, LaTeX 
+Software Suites:
+Advanced: MATLAB, Simulink, Questa Sim, Vivado, ISE, ChipScope.
+Intermediate: Quartus, SignalTap, MAX+PLUS II, MATLAB compiler, GNU Radio
+
+Education
+
+University of Central Florida (UCF), Orlando, FL
+Master's degree (MS-EE), Jan. 2012 thru Dec. 2014
+Major: Electrical Engineering, GPA: 3.136/ 4.000
+Specialization: Signal Processing and Systems
+
+National Institute of Technology Calicut (NITC), Kerala, India
+Bachelor's degree (B. Tech ECE), July 2007 thru May 2011
+Major: Electronics and Communication Engineering, GPA: 3.830/4.000
+
