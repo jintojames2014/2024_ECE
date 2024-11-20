@@ -1,13 +1,16 @@
 About me
-
-I am passionate about working with traceable, verifiable, high reliability systems.
-I am creative in writing codes and efficiently running scripts for automated testing.
-I am a quick-learner, result-driven, and versatile employee.
-I was an integral member of multiple projects in Aerospace,
-and Test & Measurement industry, delivering high-quality products and solutions. 
+-----------------------------------
+I am passionate about working with traceable, verifiable, high reliability systems. I am creative in writing codes and efficiently running scripts for automated testing. I am a quick-learner, result-driven, and versatile employee. I was an integral member of multiple projects in Aerospace, and Test & Measurement industry, delivering high-quality products and solutions. 
  
-I am an Electrical Engineer with experience in digital electronic hardware development
-(using programmable devices, micro-controllers, digital interfaces)
-at design, integration and verification phases.
-I enjoy assembling system-level modules, and units in lab setting
+I am an Electrical Engineer with experience in digital electronic hardware development (using programmable devices, micro-controllers, digital interfaces) at design, integration and verification phases. I enjoy assembling system-level modules, and units in lab setting
 for prototyping, troubleshooting and testing.  
+
+======================================================================
+
+Jinto Jolly James 
+jintojkulappurathu@gmail.com 
+www.linkedin.com/in/jintojollyjames
+https://github.com/jintojames2014
+Woodbury (Saint Paul), MN-55125 
+
+======================================================================
