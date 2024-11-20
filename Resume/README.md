@@ -19,8 +19,10 @@ I am a US Citizen, available immediately, ready to relocate to work on-site/ hyb
 Open to Contract, Contract to Hire and Direct hire roles.
 
   Jinto J. James
-  Woodbury, MN 🇺🇸 (Saint Paul, MN)
-  jintojkulappurathu@gmail.com
+
+Woodbury, MN 🇺🇸 (Saint Paul, MN)
+
+ jintojkulappurathu@gmail.com
 
 Resume availble online:
 * https://raw.githubusercontent.com/jintojames2014/2024_ECE/refs/heads/main/Resume/Resume_JintoJollyJames.txt
