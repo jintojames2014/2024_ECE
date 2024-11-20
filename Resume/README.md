@@ -28,8 +28,14 @@ Resume availble online:
 
 ----
 Repository: https://github.com/jintojames2014/2024_ECE/
+
+
 File path: Resume
+
+
 'Resume' Folder: to retain text version of resume (quick reference)
 
 Folder created on:
+
+
 Wednesday, November 20, 2024
