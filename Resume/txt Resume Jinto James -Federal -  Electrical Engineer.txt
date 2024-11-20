@@ -172,10 +172,3 @@ Requirements Management: IBM DOORS, JAMA
 Documentation: Microsoft office (Word, Excel, PowerPoint, and Visio), LibreOffice, JIRA, LaTeX 
  
 ======================================================================
-* Resume sections (compliant with USAjob.gov guidelines): 
-    = email, address line 2 [City, State, zip code]
-    - phone number, address line 1
-
-* original encoding for txt file: Western(ASCII)
-+ replaced ? and tabs using txt editor
-+ added ===. ---. ~~~~~, newLine using txt editor
