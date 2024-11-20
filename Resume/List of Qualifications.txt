@@ -1,6 +1,7 @@
 List of Qualifications 
-* U.S. Citizen, available immediately, and ready to relocate for working at on-site location
-* Bachelor's degree in electronics and communication engineering,master's degree in electrical engineering, along with 4 years of relevant work experience in industry.
+-----------------------------------
+* U.S. Citizen, available immediately, and ready to relocate for working at on-site location.
+* Bachelor's degree in electronics and communication engineering, master's degree in electrical engineering, along with 4 years of relevant work experience in industry.
 * Worked with software and hardware implementations of communication technologies in equipment's for cellular, Wi-Fi, aerospace, and defense applications. 
 * Familiar with performing design and formal verification for safety critical systems (including aerospace domain), using redundancy and mitigating single event error.  
 * Performed formal verification for an aerospace project using VHDL code review and Simulink model review, as per DO-254 guidelines, checklists, and design standards.   
@@ -11,3 +12,12 @@ List of Qualifications
 * Performed electronics circuit debugging using signal analyzers, oscilloscopes, spectroscope, synthetic instruments, and embedded logic analyzers at on-site labs. 
 * Knowledgeable in digital signal processing (DSP) algorithms, simulation, and implementation. 
 
+======================================================================
+
+Jinto Jolly James 
+jintojkulappurathu@gmail.com 
+www.linkedin.com/in/jintojollyjames
+https://github.com/jintojames2014
+Woodbury (Saint Paul), MN-55125 
+
+======================================================================
