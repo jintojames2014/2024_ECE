@@ -24,7 +24,7 @@ Woodbury, MN 🇺🇸 (Saint Paul, MN)
 
  jintojkulappurathu@gmail.com
 
-Resume availble online:
+Resume available online:
 * https://raw.githubusercontent.com/jintojames2014/2024_ECE/refs/heads/main/Resume/Resume_JintoJollyJames.txt
 ----
 Repository: https://github.com/jintojames2014/2024_ECE/
