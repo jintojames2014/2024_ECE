@@ -1,0 +1,9 @@
+Text books
+
+=============================================================
+
+Circuit Analysis: 
+
+* Circuit analysis demystified / David McMahon.
+* Microelectronic circuits / Adel S. Sedra, Kenneth C. Smith.
+* Introductory circuit analysis / Robert L. Boylestad.
